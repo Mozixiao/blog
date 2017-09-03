@@ -76,15 +76,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-				Hello world 
-                </div>
-
-                <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <iframe frameborder="no" border="0" hidden="true" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=481697663&auto=1&height=66"></iframe>
+				DOWTE.COM
                 </div>
             </div>
         </div>
